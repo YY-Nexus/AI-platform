@@ -1,6 +1,6 @@
 # v0 Platform API Demo
 
-A Next.js application showcasing the v0 Platform API. Build AI-powered apps with real-time generation, project management, and seamless deployment to Vercel.
+A Next.js application showcasing the  Platform API. Build AI-powered apps with real-time generation, project management, and seamless deployment to Vercel.
 
 ![Screenshot](screenshot.png)
 
@@ -145,9 +145,3 @@ pnpm format:check
 4. **Deploy**: One-click deployment to Vercel for sharing and testing
 5. **Manage**: Rename, delete, or fork chats as your projects evolve
 
-## Learn More
-
-- [v0 Platform API Documentation](https://v0.dev/docs/api/platform)
-- [Next.js Documentation](https://nextjs.org/docs)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Radix UI](https://www.radix-ui.com)
