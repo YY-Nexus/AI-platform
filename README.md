@@ -1,4 +1,4 @@
-#  Platform API Demo
+# AI Platform 
 
 A Next.js application showcasing the  Platform API. Build AI-powered apps with real-time generation, project management, and seamless deployment to Vercel.
 
